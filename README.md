@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Slava and I'm a C# developer 
+### I am Vyacheslav, C# developer. 
 
 - 🔭 I’m currently working on my own Unity game
 - 👯 I’m looking to collaborate on cool game-dev/backend projects
